@@ -1,0 +1,85 @@
+---
+layout: "default"
+title: "Call of Duty"
+description: "video game series | catalog"
+permalink: "/games/video-games/call-of-duty"
+---
+[< video games](index.md)
+
+## Modern Warfare series(original)
+
+### Call of Duty 4: Modern Warfare
+
+- launcher: Steam
+- Linux: no
+- Windows: yes
+
+### Call of Duty: Modern Warfare 2
+
+- launcher: Steam
+- Linux: no
+- Windows: yes
+
+#### Call of Duty: Modern Warfare 2 - Multiplayer
+
+- launcher: Steam
+- Linux: no
+- Windows: yes
+
+### Call of Duty: Modern Warfare 3
+
+- launcher: Steam
+- Linux: no
+- Windows: yes
+
+#### Call of Duty: Modern Warfare 3 - Multiplayer
+
+- launcher: Steam
+- Linux: no
+- Windows: yes
+
+## Black Ops series
+
+### Call of Duty: Black Ops
+
+- launcher: Steam
+- Linux: no
+- Windows: yes
+
+#### Call of Duty: Black Ops - Multiplayer
+
+- launcher: Steam
+- Linux: no
+- Windows: yes
+
+### Call of Duty: Black Ops II
+
+- launcher: Steam
+- Linux: no
+- Windows: yes
+
+#### Call of Duty: Black Ops II - Multiplayer
+
+- launcher: Steam
+- Linux: no
+- Windows: yes
+
+#### Call of Duty: Black Ops II - Zombies
+
+- launcher: Steam
+- Linux: no
+- Windows: yes
+
+### Call of Duty: Black Ops III
+
+- launcher: Steam
+- Linux: no
+- Windows: yes
+
+## (other)
+
+### Call of Duty: World at War
+
+- launcher: Steam
+- Linux: no
+- Windows: yes
