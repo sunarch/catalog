@@ -1,7 +1,5 @@
 ---
 layout: "default"
-# title: "catalog"
-description: "catalog"
 ---
 
 # media
