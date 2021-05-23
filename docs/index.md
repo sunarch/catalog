@@ -11,5 +11,6 @@ description: "sunarch"
 
 # misc
 
+- [DnD](dnd/dnd.md)
 - [languages](languages/languages.md)
 - [tech](tech/tech.md)
