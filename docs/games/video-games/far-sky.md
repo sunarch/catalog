@@ -4,7 +4,6 @@ title: "FarSky"
 description: "video game | catalog"
 permalink: "/games/video-games/far-sky"
 ---
-[< video games](index.md)
 
 ## FarSky
 

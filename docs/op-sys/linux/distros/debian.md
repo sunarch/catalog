@@ -10,8 +10,6 @@ License, v. 2.0. If a copy of the MPL was not distributed with this
 file, You can obtain one at http://mozilla.org/MPL/2.0/.
 -->
 
-[< Linux distributions](distros.md)
-
 - [homepage](https://www.debian.org)
 - [Wikipedia](https://en.wikipedia.org/wiki/Debian)
 - [repository](https://sources.debian.org)

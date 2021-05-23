@@ -4,7 +4,6 @@ title: "Arma"
 description: "video game series | catalog"
 permalink: "/games/video-games/arma"
 ---
-[< video games](index.md)
 
 ## (bundles)
 

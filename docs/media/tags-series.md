@@ -4,7 +4,6 @@ title: "series tags"
 description: "media | catalog"
 permalink: "/media/tags/series"
 ---
-[< media](media.md)
 
 - permalink: /catalog/media/series/list/TITLE
 

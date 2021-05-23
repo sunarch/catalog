@@ -4,7 +4,6 @@ title: "Fallout"
 description: "video game series | catalog"
 permalink: "/games/video-games/fallout"
 ---
-[< video games](index.md)
 
 ## Fallout
 

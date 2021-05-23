@@ -4,7 +4,6 @@ title: "Android"
 description: "operating systems | catalog"
 permalink: "/op-sys/android"
 ---
-[< operating systems](op-sys.md)
 
 ### Wikipedia
 

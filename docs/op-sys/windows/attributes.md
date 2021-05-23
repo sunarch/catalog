@@ -4,7 +4,6 @@ title: "Windows attributes"
 description: "operating systems | catalog"
 permalink: "/op-sys/windows/attributes"
 ---
-[< Windows](windows.md)
 
 ## [ServerFault: "Windows File and Folder “Attributes” A or C"](https://serverfault.com/questions/34692/windows-file-and-folder-attributes-a-or-c):
 

@@ -4,7 +4,6 @@ title: "Windows"
 description: "operating systems | catalog"
 permalink: "/op-sys/windows"
 ---
-[< operating systems](../op-sys.md)
 
 - [homepage](https://www.microsoft.com/en-us/windows/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)

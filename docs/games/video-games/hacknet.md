@@ -4,7 +4,6 @@ title: "Hacknet"
 description: "video game | catalog"
 permalink: "/games/video-games/hacknet"
 ---
-[< video games](index.md)
 
 ## Hacknet
 

@@ -4,7 +4,6 @@ title: "languages"
 description: "catalog | sunarch"
 permalink: "/languages"
 ---
-[< catalog](../index.md)
 
 # spoken
 

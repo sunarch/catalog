@@ -8,7 +8,6 @@ redirect_from:
   - /media/series/category
   - /media/series/collection
 ---
-[< catalog](../index.md)
 
 - [series tags](tags-series.md)
 

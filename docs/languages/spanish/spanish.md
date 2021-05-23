@@ -4,7 +4,6 @@ title: "Spanish"
 description: "languages | catalog"
 permalink: "/languages/spanish"
 ---
-[< languages](../languages.md)
 
 # letters
 

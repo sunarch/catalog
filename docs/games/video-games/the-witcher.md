@@ -4,7 +4,6 @@ title: "The Witcher"
 description: "video game series | catalog"
 permalink: "/games/video-games/the-witcher"
 ---
-[< video games](video-games.md)
 
 ## The Witcher (Enhanced Edition)
 

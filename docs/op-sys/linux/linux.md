@@ -4,7 +4,6 @@ title: "Linux"
 description: "operating systems | catalog"
 permalink: "/op-sys/linux"
 ---
-[< operating systems](../op-sys.md)
 
 ### subpages
 

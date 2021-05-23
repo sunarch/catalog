@@ -4,7 +4,6 @@ title: "The Elder Scrolls"
 description: "video game series | catalog"
 permalink: "/games/video-games/the-elder-scrolls"
 ---
-[< video games](video-games.md)
 
 ## The Elder Scrolls V: Skyrim Special Edition
 

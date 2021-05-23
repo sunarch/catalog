@@ -4,7 +4,6 @@ title: "series collection: second"
 description: "list of series | catalog"
 permalink: "/media/series/collection/second"
 ---
-[< media](media.md)
 
 ## live-action
 

@@ -4,7 +4,6 @@ title: "Arabic"
 description: "languages | catalog"
 permalink: "/languages/arabic"
 ---
-[< languages](../languages.md)
 
 # links
 

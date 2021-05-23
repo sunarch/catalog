@@ -4,7 +4,6 @@ title: "Call of Duty"
 description: "video game series | catalog"
 permalink: "/games/video-games/call-of-duty"
 ---
-[< video games](index.md)
 
 ## Modern Warfare series(original)
 

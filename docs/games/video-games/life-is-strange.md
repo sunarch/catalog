@@ -4,7 +4,6 @@ title: "Life is Strange"
 description: "video game series | catalog"
 permalink: "/games/video-games/life-is-strange"
 ---
-[< video games](index.md)
 
 ## Life is Strange
 

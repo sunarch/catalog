@@ -4,7 +4,6 @@ title: "Japanese"
 description: "languages | catalog"
 permalink: "/language/japanese"
 ---
-[< languages](../languages.md)
 
 ## honorifics
 

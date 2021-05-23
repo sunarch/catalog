@@ -4,7 +4,6 @@ title: "DCEU"
 description: "list of movies | catalog"
 permalink: "/media/movies/dceu"
 ---
-[< media](media.md)
 
 *DC Extended Universe*
 

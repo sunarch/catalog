@@ -4,7 +4,6 @@ title: "GitHub"
 description: "tech | catalog"
 permalink: "/tech/github"
 ---
-[< tech](../tech.md)
 
 - [GitHub Pages](github-pages.md)
 

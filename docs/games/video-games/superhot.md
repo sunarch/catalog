@@ -4,7 +4,6 @@ title: "SUPERHOT"
 description: "video game | catalog"
 permalink: "/games/video-games/superhot"
 ---
-[< video games](index.md)
 
 ## SUPERHOT
 

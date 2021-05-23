@@ -4,7 +4,6 @@ title: "MCU"
 description: "list of movies | catalog"
 permalink: "/media/movies/mcu"
 ---
-[< media](media.md)
 
 *Marvel Cinematic Universe*
 

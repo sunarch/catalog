@@ -4,7 +4,6 @@ title: "series collection: top"
 description: "list of series | catalog"
 permalink: "/media/series/collection/top"
 ---
-[< media](media.md)
 
 ## live-action
 

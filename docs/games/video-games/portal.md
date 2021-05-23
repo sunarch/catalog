@@ -4,7 +4,6 @@ title: "Portal"
 description: "video game series | catalog"
 permalink: "/games/video-games/portal"
 ---
-[< video games](index.md)
 
 ## Portal
 

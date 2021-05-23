@@ -4,7 +4,6 @@ title: "K.Z. must-watch list"
 description: "list of movies | catalog"
 permalink: "/media/movies/k-z-must-watch-list"
 ---
-[< media](media.md)
 
 [Birdman]: x.png "Birdman or (The Unexpected Virtue of Ignorance)"
 [Children of Men]: x.png "Children of Men"

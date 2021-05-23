@@ -4,7 +4,6 @@ title: "directors"
 description: "list of people | catalog"
 permalink: "/media/movies/directors"
 ---
-[< media](media.md)
 
 .
  [a](#a) .

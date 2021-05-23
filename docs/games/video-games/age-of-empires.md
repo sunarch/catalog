@@ -4,7 +4,6 @@ title: "Age of Empires"
 description: "video game series | catalog"
 permalink: "/games/video-games/age-of-empires"
 ---
-[< video games](index.md)
 
 ## Age of Empires II: HD Edition (2013)
 

@@ -4,7 +4,6 @@ title: "Oscars"
 description: "list of movies | catalog"
 permalink: "/media/oscars"
 ---
-[< media](media.md)
 
 ## 2018
 

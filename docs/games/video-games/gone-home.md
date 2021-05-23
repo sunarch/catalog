@@ -4,7 +4,6 @@ title: "Gone Home"
 description: "video game | catalog"
 permalink: "/games/video-games/gone-home"
 ---
-[< video games](index.md)
 
 ## Gone Home
 

@@ -4,7 +4,6 @@ title: "Firewatch"
 description: "video game | catalog"
 permalink: "/games/video-games/firewatch"
 ---
-[< video games](index.md)
 
 ## Firewatch
 

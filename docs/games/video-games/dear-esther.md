@@ -4,7 +4,6 @@ title: "Dear Esther"
 description: "video game | catalog"
 permalink: "/games/video-games/dear-esther"
 ---
-[< video games](index.md)
 
 ## Dear Esther: Landmark Edition
 

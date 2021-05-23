@@ -4,7 +4,6 @@ title: "video games"
 description: "list of titles | catalog"
 permalink: "/games/video-games"
 ---
-[< games](../games.md)
 
 ## Steam
 

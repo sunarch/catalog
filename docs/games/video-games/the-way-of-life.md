@@ -4,7 +4,6 @@ title: "The Way of Life"
 description: "video game | catalog"
 permalink: "/games/video-games/the-way-of-life"
 ---
-[< video games](video-games.md)
 
 ## The Way of Life Free Edition
 

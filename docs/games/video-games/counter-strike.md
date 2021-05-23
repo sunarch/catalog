@@ -4,7 +4,6 @@ title: "Counter-Strike"
 description: "video game series | catalog"
 permalink: "/games/video-games/counter-strike"
 ---
-[< video games](index.md)
 
 ## Counter-Strike
 

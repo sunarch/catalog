@@ -4,7 +4,6 @@ title: "Torchlight"
 description: "video game series | catalog"
 permalink: "/games/video-games/torchlight"
 ---
-[< video games](video-games.md)
 
 ## Torchlight
 

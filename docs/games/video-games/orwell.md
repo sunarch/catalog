@@ -4,7 +4,6 @@ title: "Orwell"
 description: "video game series | catalog"
 permalink: "/games/video-games/orwell"
 ---
-[< video games](index.md)
 
 ## Orwell
 

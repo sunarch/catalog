@@ -4,7 +4,6 @@ title: "Grand Theft Auto"
 description: "video game series | catalog"
 permalink: "/games/video-games/grand-theft-auto"
 ---
-[< video games](index.md)
 
 ## Grand Theft Auto III
 

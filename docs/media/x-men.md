@@ -4,7 +4,6 @@ title: "X-Men"
 description: "list of movies | catalog"
 permalink: "/media/movies/x-men"
 ---
-[< media](media.md)
 
 - [Fandom: X-Men Movies Wiki](https://xmenmovies.fandom.com/wiki/X-Men_Movies_Wiki)
 - [Wikipedia: X-Men (film series)](https://en.wikipedia.org/wiki/X-Men_%28film_series%29)

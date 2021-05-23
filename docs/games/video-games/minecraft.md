@@ -4,7 +4,6 @@ title: "Minecraft"
 description: "video game | catalog"
 permalink: "/games/video-games/minecraft"
 ---
-[< video games](index.md)
 
 ## Minecraft
 

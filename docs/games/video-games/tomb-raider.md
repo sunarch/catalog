@@ -4,7 +4,6 @@ title: "Tomb Raider"
 description: "video game series | catalog"
 permalink: "/games/video-games/tomb-raider"
 ---
-[< video games](video-games.md)
 
 ## Tomb Raider
 

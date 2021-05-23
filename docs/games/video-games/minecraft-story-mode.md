@@ -4,7 +4,6 @@ title: "Minecraft: Story Mode"
 description: "video game series | catalog"
 permalink: "/games/video-games/minecraft-story-mode"
 ---
-[< video games](index.md)
 
 ## Minecraft: Story Mode - A Telltale Games Series
 
