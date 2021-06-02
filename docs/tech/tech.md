@@ -6,3 +6,5 @@ permalink: "/tech"
 ---
 
 - [GitHub](github/github.md)
+- [comms](comms/comms.md)
+
