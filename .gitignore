@@ -1,1 +1,4 @@
-.obsidian/workspace
+# Obsidian
+
+.obsidian/*
+!.obsidian/config
