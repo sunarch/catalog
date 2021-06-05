@@ -33,6 +33,10 @@ redirect_from:
 - [Netflix](series-available-netflix.md)
 - [YouTube](series-available-youtube.md)
 
+### other info
+
+- [ncis-rules](ncis-rules.md)
+
 ## movies
 
 - [MCU](mcu.md)
