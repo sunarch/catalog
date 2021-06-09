@@ -5,9 +5,9 @@ description: "catalog | sunarch"
 permalink: "/comms"
 ---
 
-## IRC
+# comms
 
-- [NickServ](irc-nickserv.md)
+- [IRC](irc.md)
 
 ## Discord bots
 
