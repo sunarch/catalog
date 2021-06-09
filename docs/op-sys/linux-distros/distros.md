@@ -2,7 +2,7 @@
 layout: "default"
 title: "Linux distributions"
 description: "knowledgebase | sunarch"
-permalink: "/kb/op-sys/linux/distros"
+permalink: "/op-sys/linux/distros"
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

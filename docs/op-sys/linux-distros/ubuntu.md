@@ -2,7 +2,7 @@
 layout: "default"
 title: "Ubuntu"
 description: "knowledgebase | sunarch"
-permalink: "/kb/op-sys/linux/distros/ubuntu"
+permalink: "/op-sys/linux/distros/ubuntu"
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

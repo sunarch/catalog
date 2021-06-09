@@ -2,7 +2,7 @@
 layout: "default"
 title: "series tags"
 description: "media | catalog"
-permalink: "/media/tags/series"
+permalink: "/media/series/tags"
 ---
 
 - permalink: /catalog/media/series/list/TITLE

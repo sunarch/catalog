@@ -5,6 +5,6 @@ description: "catalog | sunarch"
 permalink: "/op-sys"
 ---
 
-- [Linux](linux/linux.md)
+- [Linux](linux.md)
 - [Android](android.md)
-- [Windows](windows/windows.md)
+- [Windows](windows.md)

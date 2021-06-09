@@ -2,7 +2,7 @@
 layout: "default"
 title: "NCIS Rules"
 description: "media | catalog"
-permalink: "/media/ncis-rules"
+permalink: "/media/series/list/ncis/rules"
 ---
 
 - motto: "Everyone needs a code they can live by."

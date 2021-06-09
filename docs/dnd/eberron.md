@@ -2,7 +2,7 @@
 layout: "default"
 title: "5E adventures in Eberron"
 description: "DnD | catalog"
-permalink: "/catalog/dnd/adventures/eberron"
+permalink: "/dnd/adventures/eberron"
 ---
 
 # Eberron

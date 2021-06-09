@@ -2,7 +2,7 @@
 layout: "default"
 title: "Elementary OS"
 description: "knowledgebase | sunarch"
-permalink: "/kb/op-sys/linux/distros/elementary-os"
+permalink: "/op-sys/linux/distros/elementary-os"
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

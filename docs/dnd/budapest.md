@@ -2,7 +2,7 @@
 layout: "default"
 title: "DnD Budapest"
 description: "DnD | catalog"
-permalink: "/catalog/dnd/budapest"
+permalink: "/dnd/budapest"
 ---
 
 ## groups

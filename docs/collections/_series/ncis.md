@@ -43,3 +43,5 @@ imdb_summary: "The cases of the Naval Criminal Investigative Service's Washingto
 
 wikipedia_link: ""
 ---
+
+-  [rules](../../media/ncis-rules.md)

@@ -2,7 +2,7 @@
 layout: "default"
 title: "D&D-related services"
 description: "DnD | catalog"
-permalink: "/catalog/dnd/services"
+permalink: "/dnd/services"
 ---
 
 ## D&D Beyond

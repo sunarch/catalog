@@ -2,7 +2,7 @@
 layout: "default"
 title: "Groovy commands - compact"
 description: "comms | catalog"
-permalink: "/tech/comms/groovy-cmd"
+permalink: "/comms/groovy-cmd"
 ---
 
 *updated: 2021-04-27*

@@ -2,7 +2,7 @@
 layout: "default"
 title: "Arch Linux"
 description: "knowledgebase | sunarch"
-permalink: "/kb/op-sys/linux/distros/arch-linux"
+permalink: "/op-sys/linux/distros/arch-linux"
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

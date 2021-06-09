@@ -2,7 +2,7 @@
 layout: "default"
 title: "5E adventures in The Forgotten Realms"
 description: "DnD | catalog"
-permalink: "/catalog/dnd/adventures/forgotten-realms"
+permalink: "/dnd/adventures/forgotten-realms"
 ---
 
 - Fandom: [The Forgotten Realms Wiki](https://forgottenrealms.fandom.com/wiki/Main_Page)

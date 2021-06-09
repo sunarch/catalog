@@ -2,7 +2,7 @@
 layout: "default"
 title: "comms"
 description: "catalog | sunarch"
-permalink: "/tech/comms"
+permalink: "/comms"
 ---
 
 ## IRC

@@ -5,8 +5,12 @@ description: "list of lists | catalog"
 permalink: "/media"
 
 redirect_from:
+  - /media/series
+  - /media/series/available
   - /media/series/category
   - /media/series/collection
+  - /media/series/list
+  - /media/movies
 ---
 
 - [series tags](tags-series.md)

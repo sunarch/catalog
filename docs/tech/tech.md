@@ -5,6 +5,4 @@ description: "catalog | sunarch"
 permalink: "/tech"
 ---
 
-- [GitHub](github/github.md)
-- [comms](comms/comms.md)
-
+- [GitHub](github.md)

@@ -2,7 +2,7 @@
 layout: "default"
 title: "DnD"
 description: "catalog | sunarch"
-permalink: "/catalog/dnd"
+permalink: "/dnd"
 ---
 
 - [services](services.md)

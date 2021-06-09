@@ -2,7 +2,7 @@
 layout: "default"
 title: "Raspberry Pi OS"
 description: "knowledgebase | sunarch"
-permalink: "/kb/op-sys/linux/distros/raspberry-pi-os"
+permalink: "/op-sys/linux/distros/raspberry-pi-os"
 ---
 <!--
 This Source Code Form is subject to the terms of the Mozilla Public

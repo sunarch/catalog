@@ -2,7 +2,7 @@
 layout: "default"
 title: "NickServ (IRC)"
 description: "catalog | sunarch"
-permalink: "/tech/comms/irc-nickserv"
+permalink: "/comms/irc-nickserv"
 ---
 
 ```/msg NickServ REGISTER $password $email```

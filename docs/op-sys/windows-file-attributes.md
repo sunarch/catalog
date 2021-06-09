@@ -1,8 +1,8 @@
 ---
 layout: "default"
-title: "Windows attributes"
+title: "Windows file attributes"
 description: "operating systems | catalog"
-permalink: "/op-sys/windows/attributes"
+permalink: "/op-sys/windows/file-attributes"
 ---
 
 ## [ServerFault: "Windows File and Folder “Attributes” A or C"](https://serverfault.com/questions/34692/windows-file-and-folder-attributes-a-or-c):

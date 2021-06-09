@@ -2,7 +2,7 @@
 layout: "default"
 title: "DnD-related creators"
 description: "DnD | catalog"
-permalink: "/catalog/dnd/creators"
+permalink: "/dnd/creators"
 ---
 
 # English
